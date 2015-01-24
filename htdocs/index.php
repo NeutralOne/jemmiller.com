@@ -4,8 +4,9 @@
         </head>
 
 	<body>
-	<center> Hello! <br> <br> </center>
-	</center> My name is Jeremy Miller! Welcome to JemMiller.com! </center>
+	<center> Hello! <br> <br> 
+	My name is Jeremy Miller! <br> <br>
+	Welcome to JemMiller.com! </center>
 	</body>
 </html>
 ~
