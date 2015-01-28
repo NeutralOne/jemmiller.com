@@ -1,13 +1,13 @@
 <html>
         <head>
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="style.css">
         </head>
-
-	<body>
-	<center> Hello! <br> <br> 
-	My name is Jeremy Miller! <br> <br>
-	Welcome to JemMiller.com! <br> <br>
-	More coming soon, until then, check out my <a href="http://league.jemmiller.com"> League of Legends App!</a> </center>
-	</body>
+        <title>
+        Jeremy Miller
+        </title>
+        <body>
+        <iframe src="https://docs.google.com/document/d/1Bj9UomSJGGce2AShEg_k1TJvCBS_xRZNVaz88P9v_mE/pub?embedded=true"
+ height="1300" width="1500"></iframe>
+        </body>
 </html>
-~
+~~
