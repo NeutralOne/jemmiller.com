@@ -1,24 +1,11 @@
+.container {
+	width: 60%;
+	margin: 0 auto;
+}
+.header {
+	text-align: center;
+}
 
-@import "bootstrap/bootstrap.less";
-
-body {
-	font-size: 16px;
-	span {
-		padding: 50px;
-		font-size: 10em;
-	}
-	.center {
-		width: 100%;
-		text-align: center;
-		.big {
-			position: relative;
-			top: -1.35em;
-			font-style: italic;
-			font-size: 3em;
-			color: blue;
-		}
-		.medium {
-			font-size: 1em;
-		}
-	}
+h2, h4 {
+	margin: 0.2em;
 }
