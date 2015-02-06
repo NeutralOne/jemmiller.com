@@ -62,7 +62,11 @@
       <div class="section">
         <h4>Work Experience:</h4>
         <ul>
-          <li>Hookah Specialist at Gypsy Cafe (August to November 2014)</li>
+          <li>Hookah Specialist at Gypsy Cafe (August to November 2014)
+            <ul>
+            <li>Experience working with customers to meet their needs</li>
+            <li>Excellent communication and problem solving skills</li>
+            </ul></li>
         </ul>
       </div>
     </div>
